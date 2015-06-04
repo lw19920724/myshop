@@ -1,0 +1,6 @@
+*{margin: 0;padding: 0;border: none;list-style: none;}
+input{-webkit-appearance: none; }
+.border-box{-webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;}
+.clear {clear: both;height: 0;width: 100%;  }
+.clearfix:after { visibility: hidden;display: block;font-size: 0;  content: " "; clear: both;  height: 0;  }
+.clearfix {zoom: 1;clear: both;  }
